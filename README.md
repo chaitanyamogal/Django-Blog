@@ -3,7 +3,7 @@
 Created Django blog web application with all features like :
 <ul>
   <li>Signup</li>
-  <li>Login/li>
+  <li>Login</li>
   <li>WYSIWYG editor in django database</li>
   <li>Search</li>
 </ul>
